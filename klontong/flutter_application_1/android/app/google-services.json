@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431849700069",
+    "project_id": "klontong-a10a4",
+    "storage_bucket": "klontong-a10a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431849700069:android:91ee9d001fbe3046ccb20c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5m3Mn7fTYgY_11RIuemF0t-Og6DhhCUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
